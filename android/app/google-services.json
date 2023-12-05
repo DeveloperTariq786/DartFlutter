@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049596370520",
+    "project_id": "studifyynew",
+    "storage_bucket": "studifyynew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049596370520:android:fa7a33ab898343ac2a742d",
+        "android_client_info": {
+          "package_name": "com.example.studifyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049596370520-628v9ttbv04bg48b2qkeun7t9vtk3lag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRnMCYxUNedECDUZ1830ua9Y0n_L6OgZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049596370520-628v9ttbv04bg48b2qkeun7t9vtk3lag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4105817549704894~7807528551"
+    }
+  ],
+  "configuration_version": "1"
+}
